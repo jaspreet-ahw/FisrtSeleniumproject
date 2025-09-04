@@ -7,10 +7,10 @@ interface  B{
 class S implements  A,B{
 
    public void show(){
-      System.out.println("self respect is very improtant");
+      System.out.println("self respect is very improtant !");
   }
   public void  dis(){
-      System.out.println("self respect is very important");
+      System.out.println("self respect is very important !");
   }
 }
 class Java1{
